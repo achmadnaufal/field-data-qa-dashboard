@@ -1,0 +1,26 @@
+submission_id,submitter,submission_date,latitude,longitude,gps_accuracy,plot_id,species,tree_count,dbh_cm,canopy_cover_pct,soil_type,land_use,photo_id
+SUB001,Adi Pratama,2026-03-01,-6.2088,106.8456,5.2,PLT-001,Rhizophora apiculata,45,18.3,72,alluvial,mangrove_restoration,IMG_001.jpg
+SUB002,Siti Nurhaliza,2026-03-01,-6.9175,110.4203,8.1,PLT-002,Avicennia marina,32,14.7,65,clay,mangrove_restoration,IMG_002.jpg
+SUB003,Budi Santoso,2026-03-02,-8.6500,115.2167,3.4,PLT-003,Tectona grandis,28,22.1,80,laterite,agroforestry,IMG_003.jpg
+SUB004,Adi Pratama,2026-03-02,-2.5489,140.7183,12.5,PLT-004,Shorea leprosula,55,25.6,88,peat,primary_forest,IMG_004.jpg
+SUB005,Dewi Lestari,2026-03-03,-0.7893,113.9213,45.0,PLT-005,Aquilaria malaccensis,12,10.2,40,sandy,degraded_land,IMG_005.jpg
+SUB006,Rizki Amanah,2026-03-03,-1.6095,103.6072,7.8,PLT-006,Acacia mangium,60,15.8,70,clay,plantation,IMG_006.jpg
+SUB007,Budi Santoso,2026-03-04,,,,PLT-007,Rhizophora mucronata,38,16.9,68,,mangrove_restoration,IMG_007.jpg
+SUB008,Siti Nurhaliza,2026-03-04,-7.2575,112.7521,6.3,PLT-008,Sonneratia alba,22,12.4,55,alluvial,mangrove_restoration,IMG_008.jpg
+SUB009,Adi Pratama,2026-03-05,-6.1751,106.8650,4.1,PLT-001,Rhizophora apiculata,47,18.9,74,alluvial,mangrove_restoration,IMG_009.jpg
+SUB010,Dewi Lestari,2026-03-05,35.6762,139.6503,9.2,PLT-009,Bruguiera gymnorrhiza,15,11.0,45,clay,mangrove_restoration,IMG_010.jpg
+SUB011,Rizki Amanah,2026-03-06,-3.3194,114.5907,18.7,PLT-010,Dipterocarpus gracilis,40,28.3,82,laterite,primary_forest,IMG_011.jpg
+SUB012,Budi Santoso,2026-03-06,-8.3405,115.0920,5.5,PLT-011,,33,,75,volcanic,,IMG_012.jpg
+SUB013,Siti Nurhaliza,2026-03-07,-5.4474,105.2613,7.2,PLT-012,Calophyllum inophyllum,25,13.6,60,sandy,coastal_restoration,IMG_013.jpg
+SUB014,Adi Pratama,2026-03-07,-6.5944,106.7892,3.8,PLT-013,Swietenia macrophylla,50,30.1,85,clay,agroforestry,IMG_014.jpg
+SUB015,Dewi Lestari,2026-03-08,-4.0097,122.5127,6.9,PLT-014,Nypa fruticans,18,8.5,35,peat,mangrove_restoration,
+SUB016,Rizki Amanah,2026-03-08,-2.9761,104.7527,150.0,PLT-015,Rhizophora stylosa,42,17.2,70,alluvial,mangrove_restoration,IMG_016.jpg
+SUB017,Budi Santoso,2026-03-09,-7.7956,110.3695,4.6,PLT-016,Dalbergia latifolia,35,24.7,78,laterite,agroforestry,IMG_017.jpg
+SUB018,Siti Nurhaliza,2026-03-09,-6.1754,106.8272,8.4,PLT-017,Melaleuca cajuputi,27,11.8,50,peat,peatland_restoration,IMG_018.jpg
+SUB019,Adi Pratama,2026-03-10,-0.0236,109.3425,5.1,PLT-018,Shorea macrophylla,48,26.4,86,sandy,primary_forest,IMG_019.jpg
+SUB020,Dewi Lestari,2026-03-10,-8.5069,140.4054,7.3,PLT-019,Intsia bijuga,20,19.5,62,laterite,secondary_forest,IMG_020.jpg
+SUB021,Rizki Amanah,2026-03-11,-1.2642,116.8313,32.1,PLT-020,Eusideroxylon zwageri,30,35.2,90,clay,primary_forest,IMG_021.jpg
+SUB022,Budi Santoso,2026-03-11,-7.6079,110.2038,5.8,PLT-016,Dalbergia latifolia,36,24.9,79,laterite,agroforestry,IMG_022.jpg
+SUB023,Siti Nurhaliza,2026-03-12,-5.1477,119.4327,6.1,PLT-021,Bruguiera parviflora,24,13.1,58,alluvial,mangrove_restoration,IMG_023.jpg
+SUB024,Adi Pratama,2026-03-12,-6.2100,106.8470,4.5,PLT-022,Ceriops tagal,16,9.8,42,clay,mangrove_restoration,IMG_024.jpg
+SUB025,Dewi Lestari,2026-03-13,-3.7893,102.2613,8.0,PLT-023,Paraserianthes falcataria,52,20.3,75,sandy,plantation,IMG_025.jpg
